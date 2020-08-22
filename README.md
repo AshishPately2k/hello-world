@@ -8,3 +8,4 @@ Test for checkin 4
 Test for checkin 5
 Test for checkin 6
 Test for checkin 7
+Test for checkin 8
